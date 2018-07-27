@@ -1,6 +1,6 @@
 {
   "name": "podio-js",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Podio Platform JavaScript SDK for NodeJS and the browser",
   "main": "lib/index",
   "scripts": {
@@ -14,11 +14,11 @@
   },
   "contributors": [
     "Marc Høegh <marc.hoegh@hoisthq.com>",
-    "Domenico Matteo <matteo.domenico@gmail.com>"
+    "Domenico Matteo <matteo.domenico@gmail.com>",
+    "Lars Houmark <lars@houmark.com>"
   ],
   "keywords": [
     "podio",
-    "beagle",
     "platform"
   ],
   "author": "Søren Brokær <rasmussen@podio.com>",
